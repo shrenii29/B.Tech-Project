@@ -222,4 +222,4 @@ dataset-iv/
 dataset-cxr/
 *.dicom
 *.jpg
-*.csv
+
